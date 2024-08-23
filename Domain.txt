@@ -1,12 +1,3 @@
-Infopercept.com
-Infoperceptt.com
-73Strings.com
-abcd.com
-Infopercept.onmicrosoft.com
-Demo.com
-Infopercept.com
-Infopercept.com
-Infopercept.com
 agent-api.atera.com
 atera-agent-heartbeat.servicebus.windows.net
 atera-agent-heartbeat-cus.servicebus.windows.net
