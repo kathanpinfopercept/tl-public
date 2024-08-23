@@ -12,4 +12,3 @@ atera-agent-heartbeat.servicebus.windows.net
 atera-agent-heartbeat-cus.servicebus.windows.net
 40verizonbusiness.com
 bacloud.info
-38fd436e44839551d51f8a0ea19002f12f7f483e
